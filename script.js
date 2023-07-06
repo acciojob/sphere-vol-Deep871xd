@@ -7,7 +7,4 @@
             return false;
         }
 
-        // window.onload = function() {
-        //     document.getElementById('MyForm').onsubmit = volume_sphere;
-
-window.onload = document.getElementById('MyForm').onsubmit = volume_sphere;
+      window.onload = document.getElementById('MyForm').onsubmit = volume_sphere;
